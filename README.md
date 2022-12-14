@@ -1,4 +1,18 @@
-### 🛠 &nbsp; **Some of the technologies I have worked with**
+<h1 align="center"><b>Hi , I'm Martin Dyrset </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
+
+<h2>About me</h2>
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- Currently learning front-end development through "Noroff - School of Technology and Digital Media"
+- Personal website [link]() (TODOO!!) 
+- Currently working as a front-ed developer for Triark Systems AS
+<br>
+
+<h2> 🛠 Some of the technologies I have worked with </h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
