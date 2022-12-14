@@ -8,7 +8,7 @@
 
 - Currently learning front-end development through "Noroff - School of Technology and Digital Media"
 - Personal website [link]() (TODOO!!) 
-- Currently working as a front-ed developer for Triark Systems AS
+- Currently working as a front-end developer for Triark Systems AS
 <br>
 
 <h2> 🛠 Some of the technologies I have worked with </h2>
