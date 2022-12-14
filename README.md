@@ -9,3 +9,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <img style="height: 20px;" src="https://user-images.githubusercontent.com/76110230/207537211-0b3e191f-2a1d-47c1-8454-10106ecaad98.png"/>&nbsp;
 wordpress &nbsp;
+
+-------
+Credits: [martindyr](https://github.com/martindyr)
+
+Last Edited on: 16/12/2022
