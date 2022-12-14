@@ -7,4 +7,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma](https://user-images.githubusercontent.com/76110230/207534163-c38c7907-35ae-4dc7-9857-d64de9a8a648.png)&nbsp;
+![Figma](https://user-images.githubusercontent.com/76110230/207535479-e04aa51c-5ee9-40ca-be8f-969be0b12ce3.png)&nbsp;
