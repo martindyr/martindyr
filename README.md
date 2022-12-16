@@ -7,7 +7,7 @@
 <br>
 
 - Currently learning front-end development through "Noroff - School of Technology and Digital Media"
-- Currently working as a front-end developer for Triark Systems AS
+- Working as a front-end developer for Triark Systems AS
 - Portfolio [link](https://grand-tapioca-3d7cbf.netlify.app/)
 
 <br>
