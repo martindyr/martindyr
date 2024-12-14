@@ -20,13 +20,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Tailwind]([https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s))&nbsp;
 <img style="height: 20px;" src="https://user-images.githubusercontent.com/76110230/207537211-0b3e191f-2a1d-47c1-8454-10106ecaad98.png"/>&nbsp;
 <img style="height: 20px;" src="https://user-images.githubusercontent.com/76110230/207634616-14028ad6-077c-4273-9e67-5a229aae2b68.png"/>&nbsp;
 <img style="height: 20px;" src="https://user-images.githubusercontent.com/76110230/207634716-701b2f80-8efb-471f-8e0e-781cfbc4e03b.png"/>&nbsp;
 <img style="height: 20px;" src="https://user-images.githubusercontent.com/76110230/207634747-1978ea89-4876-4d37-b4d7-03b37fe75522.png"/>&nbsp;
 <img style="height: 20px;" src="https://user-images.githubusercontent.com/76110230/207634775-9d9ed928-969d-4e3a-ac52-7d2e59178f0f.png"/>&nbsp;
 <img style="height: 20px;" src="https://user-images.githubusercontent.com/76110230/207634790-32998fc0-2e7a-4da4-8625-ad849cd67b38.png"/>&nbsp;
+- Tailwind
+- React
+- Bootstrap
 
 
 -------
