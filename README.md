@@ -6,7 +6,7 @@
 
 <br>
 
-- Currently learning front-end development through "Noroff - School of Technology and Digital Media"
+- Just completed my education as a frontend developer at "Noroff - School of Technology and Digital Media"
 - Working as a front-end developer for Triark Systems AS
 - Do you want to know more about me, here is my Portfolio [link](https://grand-tapioca-3d7cbf.netlify.app/)
 
