@@ -20,6 +20,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Bootstap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![React](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <img style="height: 20px;" src="https://user-images.githubusercontent.com/76110230/207537211-0b3e191f-2a1d-47c1-8454-10106ecaad98.png"/>&nbsp;
 <img style="height: 20px;" src="https://user-images.githubusercontent.com/76110230/207634616-14028ad6-077c-4273-9e67-5a229aae2b68.png"/>&nbsp;
 <img style="height: 20px;" src="https://user-images.githubusercontent.com/76110230/207634716-701b2f80-8efb-471f-8e0e-781cfbc4e03b.png"/>&nbsp;
